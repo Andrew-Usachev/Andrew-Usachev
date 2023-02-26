@@ -56,6 +56,8 @@ Feel free to learn more & connect with me:
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" /> &nbsp;
 
 <hr> 
+
 ## :fire: My Stats:
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Usachev&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
