@@ -5,5 +5,5 @@ I'm QA Automation Engineer with 5 years of software development and testing expe
 Feel free to learn more & connect with me:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-andrewusachev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Andrew-Usachev/)](https://www.linkedin.com/in/Andrew-Usachev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew-Usachev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Andrew-Usachev/)](https://www.linkedin.com/in/Andrew-Usachev/)
 [![Gmail Badge](https://img.shields.io/badge/-usachev.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:usachev.com@gmail.com)](mailto:usachev.com@gmail.com)
