@@ -57,3 +57,4 @@ Feel free to learn more & connect with me:
 
 <hr> 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Usachev&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
