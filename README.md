@@ -8,6 +8,8 @@ Feel free to learn more & connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-AndrewUsachev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Andrew-Usachev/)](https://www.linkedin.com/in/Andrew-Usachev/)
 [![Gmail Badge](https://img.shields.io/badge/-usachev.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:usachev.com@gmail.com)](mailto:usachev.com@gmail.com)
 
+<hr> 
+
 ## 🛠  Technologies and tools I work with:
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30" /> &nbsp;
